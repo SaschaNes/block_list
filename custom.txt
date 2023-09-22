@@ -6,7 +6,7 @@
 ||adservice.google.com^
 ||pagead2.googleadservices.com^
 ||afs.googlesyndication.com^
-||example.org^
-||example.org^
-||example.org^
+||adservice.google.com^
+||pagead2.googleadservices.com^
+||afs.googlesyndication.com^
 ||example.org^
